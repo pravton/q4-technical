@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "http-server ./src"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
   }
 }
